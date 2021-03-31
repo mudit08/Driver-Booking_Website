@@ -1,0 +1,14 @@
+#login{
+    background-image: url('../img/bg9.jpg');
+    background-repeat: no-repeat,repeat;
+    background-position:center;
+    background-size: cover;
+    height: 300px;
+    
+}
+#b{
+   background-color: black;
+}
+h3{
+    color: white;
+}

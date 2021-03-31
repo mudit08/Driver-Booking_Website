@@ -1,0 +1,6 @@
+#jumbo{
+    background-image: url('../../public/img/bg5.jpg');
+    background-repeat: no-repeat,repeat;
+    background-position:center;
+    background-size: cover;
+}

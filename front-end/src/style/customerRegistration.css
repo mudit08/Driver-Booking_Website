@@ -1,0 +1,13 @@
+#regi{
+    background-image: url('../img/bg8.jpg');
+    background-repeat: no-repeat,repeat;
+    background-position:center;
+    background-size: cover;
+    
+}
+label{
+    color: white;
+}
+h3{
+color: black;
+}

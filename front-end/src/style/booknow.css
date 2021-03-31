@@ -1,0 +1,10 @@
+#booknow{
+    color: black;
+}
+#book{
+    background-image: url('../img/d6.jpg');
+    background-repeat: no-repeat,repeat;
+    background-position:center;
+    background-size: cover;
+    height: 400px;
+}

@@ -1,0 +1,19 @@
+#services{
+    height: 600px;
+    background-image: url('../img/bg6.jpg');
+    background-repeat: no-repeat,repeat;
+    background-position:center;
+    background-size: cover;
+  
+    color:black;
+    font-weight: bold;
+}
+#servicespace{
+    margin-top: 70px;
+    color: black;
+    font-weight: bold;
+    font-size: large;
+}
+h2{
+    color: black;
+}

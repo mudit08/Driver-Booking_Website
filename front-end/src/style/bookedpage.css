@@ -1,0 +1,11 @@
+#bookedd{
+    background-image: url('../img/d9.png');
+    background-repeat: no-repeat,repeat;
+    background-position:center;
+    background-size: cover;
+    height: 400px;
+    color: black;
+}
+#co{
+    color: black;
+}

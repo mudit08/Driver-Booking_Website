@@ -1,0 +1,18 @@
+#customer{
+    background-image: url('../img/bg7.jpg');
+    background-repeat: no-repeat,repeat;
+    background-position:center;
+    background-size: cover;
+    height: 400px;
+}
+/* h1{
+    color: black;
+} */
+
+#card{
+    background-image: url('../img/bg11.jpg');
+    background-repeat: no-repeat,repeat;
+    background-position:center;
+    background-size: cover;
+    color: white;
+}

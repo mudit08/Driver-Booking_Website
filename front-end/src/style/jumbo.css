@@ -1,0 +1,14 @@
+#jumbo {
+    background-image: url('../img/bg5.jpg');
+    background-repeat: no-repeat,repeat;
+    background-position:center;
+    background-size: cover;
+    font-weight: bold;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    height:400px;
+   
+   }
+   h1{
+       color: white;
+      
+   }

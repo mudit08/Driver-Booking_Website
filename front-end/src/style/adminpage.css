@@ -1,0 +1,29 @@
+#admin{
+    background-image: url('../img/bg3.jpg');
+    background-repeat: no-repeat,repeat;
+    background-position:center;
+    background-size: cover;
+    height: 400px;
+}
+#c1{
+    background-image: url('../img/d1.jpg');
+    background-repeat: no-repeat,repeat;
+    background-position:center;
+    background-size: cover;
+    color:white
+   
+}
+#c2{
+    background-image: url('../img/d2.jpg');
+    background-repeat: no-repeat,repeat;
+    background-position:center;
+    background-size: cover;
+    color:white
+}
+#c3{
+    background-image: url('../img/d3.jpg');
+    background-repeat: no-repeat,repeat;
+    background-position:center;
+    background-size: cover;
+    color:white
+}
